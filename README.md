@@ -42,6 +42,19 @@ An autonomous and manually controllable firefighting robot built using an ESP32,
 - Servo motor (SG90/standard)  
 - Power supply (battery)  
 - Bluetooth control via Dabble app
+---
+
+## 🧪 Fire Suppression Enhancement (CO₂ Generation)
+
+To complement the water-based fire suppression system, the robot can optionally integrate a **chemical-based CO₂ generation module**. This involves a controlled reaction between:
+
+- **Acetic Acid (CH₃COOH)** – e.g., vinegar
+- **Sodium Bicarbonate (NaHCO₃)** – i.e., baking soda
+  
+---
+
+### ⚗️ Chemical Reaction:
+CH₃COOH + NaHCO₃ → CH₃COONa + CO₂ ↑ + H₂O
 
 ---
 
