@@ -74,9 +74,9 @@ An autonomous and manually controllable firefighting robot built using an ESP32,
 
 ---
 
-## 📜 License
+## 📄 Academic Note
 
-This project is open-source under the [MIT License](LICENSE).
+This project was developed as part of my undergraduate coursework.
 
 ---
 
