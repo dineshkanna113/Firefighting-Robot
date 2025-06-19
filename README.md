@@ -50,11 +50,10 @@ To complement the water-based fire suppression system, the robot can optionally 
 
 - **Acetic Acid (CH₃COOH)** – e.g., vinegar
 - **Sodium Bicarbonate (NaHCO₃)** – i.e., baking soda
-  
----
 
 ### ⚗️ Chemical Reaction:
 CH₃COOH + NaHCO₃ → CH₃COONa + CO₂ ↑ + H₂O
+This reaction rapidly generates **carbon dioxide (CO₂)** gas, which displaces oxygen near the flame, helping suppress fire especially in **electrical or oil-based fires** where water may not be safe.
 
 ---
 
