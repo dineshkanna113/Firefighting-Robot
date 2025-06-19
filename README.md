@@ -2,7 +2,7 @@
 
 An autonomous and manually controllable firefighting robot built using an ESP32, flame sensors, water pump, servo, and controlled via the Dabble Bluetooth app.
 
-![model](images/model.jpg)
+![model](images/model_ffr.jpeg)
 
 ---
 
@@ -53,7 +53,7 @@ An autonomous and manually controllable firefighting robot built using an ESP32,
 
 ## 📷 Gallery
 
-![model](images/model.jpg)
+![model](images/model_ffr.jpeg)
 
 ---
 
